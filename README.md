@@ -4,7 +4,7 @@ I'm currently:
 - Working at the [HeRO Lab](https://herolab.org/) as an undergraduate researcher
 - Co-captain of the [Robotics Club IEEE](https://github.com/Robotics-IEEE/ieee-2025) team
 
-I love robotics, algorithms, cars, and coffee. Feel free to explore my code, or reach out at `rishab.seshadri@gmail.com` to chat! :)
+I love robotics, algorithms, cars, and coffee ☕ Feel free to explore my code, or reach out at `rishab.seshadri@gmail.com` to chat! :)
 
 ---------------------------------------
 | Repositories | Description |
