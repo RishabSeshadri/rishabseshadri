@@ -1,4 +1,4 @@
-👋 Hello! I'm Rishab, a student at the University of Georgia pursuing a bachelors in Computer Science & Mathematics. Here's my [website](https://rishabseshadri.github.io/)!
+👋 Hello! I'm Rishab, a student at the University of Georgia pursuing a B.S. in Computer Science & Mathematics. Here's my [website](https://rishabseshadri.github.io/)!
 
 I'm currently:
 - Working at the [HeRO Lab](https://herolab.org/) as an undergraduate researcher
